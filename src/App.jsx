@@ -86,9 +86,7 @@ const App= () =>{
     name:"john",
     age:99,
     hoobies:["lire","ecrire"]
-   sayHello: () => {console.log("hello odc!");}
-
-
+    //sayHello: () => {console.log("hello odc!");}
   }
 ]
  // return element
